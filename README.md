@@ -4,10 +4,10 @@
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+- My main motivation was to be able to go through the experience of compliting and following trhough the repository experience outside from the pre-work excercise. 
+- We build this project to help us identify early on in our careers hoe to manage unnecesary lines and how to better improve the webpage performance.
+- It help better organize the page and make it more efficiend bby reducing unnecesary line of codes increasing the performance of the   page.
+- Whit this first challenge i learned that how to help make th eweb page more efficient and actually understand the different section in details of the hmtl file structure.
 
 ## Table of Contents (Optional)
 
